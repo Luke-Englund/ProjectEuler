@@ -1,15 +1,15 @@
 Project Euler Solutions
 =======================
 
->#35 Circular Primes
+>\#35 Circular Primes
 
 A little warm-up problem that finds all of the circular primes under 1,000,000.
 
->#121 Disk Game Prize Fund
+>\#121 Disk Game Prize Fund
 
 A fun little combinatorial problem in the form of a carnival game.
 
->#208 Robot Walks
+>\#208 Robot Walks
 
 This one was posed to me by a co-worker.  I had already solved two Euler problems that he suggested that day and felt pretty confident going into this one.  It took allot more thought but I eventually came up with an algorithm that solved the cases up to 25 steps.  I thought I had it beat so I ran the 70 step case.  It never finished!  Haha!  It ran in exponential time; correct but impractical.
 
